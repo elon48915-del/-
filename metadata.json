@@ -1,0 +1,7 @@
+{
+  "name": "圣诞树",
+  "description": "A high-fidelity, interactive 3D Christmas experience featuring cinematic luxury aesthetics, dynamic particle systems, and gesture-based interaction.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
